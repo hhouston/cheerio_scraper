@@ -1,0 +1,13 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "hhouston",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "mongodb": "^2.2.24",
+    "request": "latest"
+  }
+}
