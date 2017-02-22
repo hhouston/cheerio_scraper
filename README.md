@@ -1,9 +1,9 @@
 # Web scrapper
 
 
-### Run
+## Run
 
-*npm install
-*node server.js
+###npm install
+###node server.js
 
-got to localhost:8081/ncaab to start scrape (look at console)
+####got to localhost:8081/ncaab to start scrape (look at console)
