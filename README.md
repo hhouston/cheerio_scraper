@@ -1,7 +1,11 @@
 # Web scrapper
 
 
-## Run
+## Run Server
+
+### mongod
+
+## Run Scraper
 
 ###npm install
 ###node server.js
