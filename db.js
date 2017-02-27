@@ -16,9 +16,9 @@ module.exports = {
       assert.equal(null, err);
       console.log("Inserting team name.");
 
-      db.collection('teams').insertOne( {
-        "name": title
-      });
+      // db.collection('teams').insertOne( {
+      //   "name": title
+      // });
 
       db.close();
     });
