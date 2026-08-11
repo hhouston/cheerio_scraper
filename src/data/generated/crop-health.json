@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-08-11 18:29 UTC",
+  "images": [
+    {
+      "src": "/imagery/crop-health/ndvi-map.png",
+      "caption": "Field-by-field crop vigor west of Fresno: every green square is a thriving irrigated field, every brown one is fallow or freshly harvested. Computed from red vs near-infrared reflectance \u2014 updated every ~5 days per field, from free data.",
+      "acquired": "2026-08-08",
+      "source": "Sentinel-2 L2A via Earth Search (anonymous COGs)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "latest block NDVI",
+      "value": "0.29"
+    },
+    {
+      "label": "season scenes sampled",
+      "value": "6"
+    },
+    {
+      "label": "revisit",
+      "value": "~5 days"
+    }
+  ],
+  "series": {
+    "label": "Mean NDVI \u2014 field block west of Fresno (Apr\u2013Aug 2026)",
+    "points": [
+      {
+        "date": "2026-05-25",
+        "value": 0.197
+      },
+      {
+        "date": "2026-06-09",
+        "value": 0.195
+      },
+      {
+        "date": "2026-06-24",
+        "value": 0.247
+      },
+      {
+        "date": "2026-07-09",
+        "value": 0.301
+      },
+      {
+        "date": "2026-07-24",
+        "value": 0.308
+      },
+      {
+        "date": "2026-08-08",
+        "value": 0.292
+      }
+    ]
+  }
+}

@@ -111,7 +111,7 @@ export const POCS: PocEntry[] = [
     ],
     method: [
       'Fetch TEMPO hourly NO2 column tiles — TEMPO is the first geostationary air-quality instrument, staring at North America all day.',
-      'Composite the NO2 field over a reference basemap for an industrial corridor (e.g. Houston–Gulf Coast).',
+      'Composite the NO2 field over a reference basemap for the New York / I-95 corridor and the eastern US (Houston was tried first but sat under storm cloud — a real constraint the fallback radar/S5P path exists for).',
       'For global or methane coverage, fall back to daily Sentinel-5P granules: quality-filter the retrievals and grid them into a heatmap.',
     ],
     business: {

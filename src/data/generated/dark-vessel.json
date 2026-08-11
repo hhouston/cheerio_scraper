@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-08-11 17:46 UTC",
+  "images": [
+    {
+      "src": "/imagery/dark-vessel/scene.jpg",
+      "caption": "Every red box is a ship: 268 vessels detected in one radar pass over the Singapore Strait anchorage \u2014 one of the busiest shipping lanes on Earth. Radar sees through cloud and darkness, which is why it is the workhorse for finding vessels that switch their transponders off.",
+      "acquired": "2026-08-10 11:24 UTC",
+      "source": "Sentinel-1 SAR via Microsoft Planetary Computer (anonymous)"
+    },
+    {
+      "src": "/imagery/dark-vessel/chips.jpg",
+      "caption": "The five strongest radar returns, zoomed in \u2014 estimated lengths from the detection footprint. Cross-matching these against live AIS transponder feeds is what separates honest traffic from dark vessels.",
+      "acquired": "2026-08-10 11:24 UTC",
+      "source": "Sentinel-1 SAR via Microsoft Planetary Computer (anonymous)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "vessels detected",
+      "value": "268"
+    },
+    {
+      "label": "scene acquired",
+      "value": "2026-08-10 11:24 UTC"
+    },
+    {
+      "label": "works at night / through cloud",
+      "value": "yes \u2014 radar"
+    }
+  ]
+}

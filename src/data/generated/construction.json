@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-08-11 18:26 UTC",
+  "images": [
+    {
+      "src": "/imagery/construction/before-after.jpg",
+      "caption": "NW Las Vegas, NV, 2025-08-27 vs 2026-08-04: watch one of America's fastest-growing metro fringes turn desert into subdivisions. Same satellite, same grid, one year apart.",
+      "acquired": "2025-08-27 and 2026-08-04",
+      "source": "Sentinel-2 L2A via Earth Search (anonymous COGs)"
+    },
+    {
+      "src": "/imagery/construction/change-overlay.jpg",
+      "caption": "Change mask over the new scene: 0.4 km\u00b2 of desert brightened or lost vegetation the way graded lots, roads and roofs do. Builders, assessors and land investors pay for exactly this growth-frontier map.",
+      "acquired": "2026-08-04",
+      "source": "Sentinel-2 L2A via Earth Search (anonymous COGs)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "changed area",
+      "value": "0.4 km\u00b2"
+    },
+    {
+      "label": "period",
+      "value": "2025-08-27 \u2192 2026-08-04"
+    },
+    {
+      "label": "location",
+      "value": "NW Las Vegas, NV"
+    }
+  ]
+}

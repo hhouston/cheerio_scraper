@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-08-11 17:58 UTC",
+  "images": [
+    {
+      "src": "/imagery/wildfire/fire-composite.jpg",
+      "caption": "Auto-located: the largest active fire in the western US on 2026-08-10 \u2014 US Interior West. Each glowing dot is a 375 m VIIRS thermal detection drawn on the same day's true-color pass; no human picked this location, the pipeline found it by scanning the whole region's detections.",
+      "acquired": "2026-08-10",
+      "source": "NASA VIIRS via GIBS vector tiles (anonymous)"
+    },
+    {
+      "src": "/imagery/wildfire/goes-fulldisk.jpg",
+      "caption": "The 'right now' rung: GOES-19 GeoColor full disk, refreshed every 10 minutes \u2014 smoke plumes, storms and hurricanes are watchable in near real time at zero cost.",
+      "acquired": "2026-08-11 17:50 UTC",
+      "source": "NOAA GOES-19 via STAR CDN (anonymous)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "fire detections scanned",
+      "value": "1696 (western US)"
+    },
+    {
+      "label": "largest fire",
+      "value": "98 hot spots \u00b7 US Interior West"
+    },
+    {
+      "label": "detection latency",
+      "value": "< 24 h (VIIRS) / 10 min (GOES)"
+    }
+  ]
+}

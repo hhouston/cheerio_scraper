@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="orbital-sample" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Marin Headlands – Rodeo Beach to Tennessee Valley loop (sample, consented share)</name>
+    <trkseg>
+      <trkpt lat="37.8323" lon="-122.5385"/>
+      <trkpt lat="37.8352" lon="-122.5330"/>
+      <trkpt lat="37.8388" lon="-122.5296"/>
+      <trkpt lat="37.8421" lon="-122.5258"/>
+      <trkpt lat="37.8462" lon="-122.5228"/>
+      <trkpt lat="37.8504" lon="-122.5251"/>
+      <trkpt lat="37.8547" lon="-122.5282"/>
+      <trkpt lat="37.8590" lon="-122.5312"/>
+      <trkpt lat="37.8630" lon="-122.5345"/>
+      <trkpt lat="37.8607" lon="-122.5401"/>
+      <trkpt lat="37.8580" lon="-122.5457"/>
+      <trkpt lat="37.8546" lon="-122.5505"/>
+      <trkpt lat="37.8508" lon="-122.5467"/>
+      <trkpt lat="37.8470" lon="-122.5430"/>
+      <trkpt lat="37.8430" lon="-122.5410"/>
+      <trkpt lat="37.8378" lon="-122.5395"/>
+      <trkpt lat="37.8323" lon="-122.5385"/>
+    </trkseg>
+  </trk>
+</gpx>

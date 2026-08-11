@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-08-11 18:07 UTC",
+  "images": [
+    {
+      "src": "/imagery/emissions/no2-northeast.jpg",
+      "caption": "Nitrogen dioxide over New York and the I-95 corridor, mid-afternoon: NO2 tracks combustion, so highways, power plants and industry light up red. TEMPO measures this every daylight hour from geostationary orbit \u2014 hourly emissions accountability, free.",
+      "acquired": "2026-08-10 20:00:00 UTC",
+      "source": "NASA TEMPO L3 via GIBS (anonymous tiles)"
+    },
+    {
+      "src": "/imagery/emissions/no2-eastern-us.jpg",
+      "caption": "The same hour across the eastern US: city and industrial NO2 plumes resolve individually \u2014 the raw material for facility-level emissions attribution, the layer sold by climate-intelligence companies.",
+      "acquired": "2026-08-10 20:00:00 UTC",
+      "source": "NASA TEMPO L3 via GIBS (anonymous tiles)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "instrument",
+      "value": "TEMPO \u2014 hourly, geostationary"
+    },
+    {
+      "label": "scan shown",
+      "value": "2026-08-10 20:00:00Z"
+    },
+    {
+      "label": "global fallback",
+      "value": "Sentinel-5P daily (NO2, CH4, CO, SO2)"
+    }
+  ]
+}
