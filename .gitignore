@@ -1,0 +1,39 @@
+# deps / builds
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.turbo/
+test-results/
+playwright-report/
+*.tsbuildinfo
+*.log
+
+# env
+.env
+.env.local
+.env.*.local
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / ide
+.DS_Store
+Thumbs.db
+.idea/
+
+# legacy 2017 scraper files (untracked, superseded by Orbital — see master branch for history)
+/casper.js
+/cheerio.js
+/db.js
+/hypem.js
+/index.js
+/output.json
+/server.js
+/stubhub.js
+/src/casper-child/
+/src/casper-nodejs/
