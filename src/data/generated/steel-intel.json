@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-08-13 02:19 UTC",
+  "images": [
+    {
+      "src": "/imagery/steel-intel/permian-pads.jpg",
+      "caption": "Rig counts, but earlier: 110 new well-pad and lease-road sites (230 ha) cleared in Reeves County since last summer, detected from free 10 m imagery. Pads are cleared before rigs arrive \u2014 this signal leads the rig count JD Fields already buys.",
+      "acquired": "2025-08-27 vs 2026-08-12",
+      "source": "Sentinel-2 L2A via Earth Search (anonymous)"
+    },
+    {
+      "src": "/imagery/steel-intel/houston-fringe.jpg",
+      "caption": "Piling leads before permits: 10 sites (~113 ha) went from vegetated to cleared-and-graded in one of Houston's fastest-growing corridors. Deep-foundation bids follow grading by weeks \u2014 the call list writes itself.",
+      "acquired": "2025-09-17 vs 2026-08-03",
+      "source": "Sentinel-2 L2A via Earth Search (anonymous)"
+    },
+    {
+      "src": "/imagery/steel-intel/ship-channel.jpg",
+      "caption": "Supply chain from orbit: the Turning Basin docks a year apart \u2014 berth and laydown activity is visible at 10 m, shipment-arrival confirmation and yard-inventory trends come free; rack-level counts need one ~$300 tasked sub-meter shot.",
+      "acquired": "2025-09-17 vs 2026-07-31",
+      "source": "Sentinel-2 L2A via Earth Search (anonymous)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "new Permian pad sites",
+      "value": "110"
+    },
+    {
+      "label": "Houston grading sites",
+      "value": "10 (~113 ha)"
+    },
+    {
+      "label": "data cost",
+      "value": "$0"
+    }
+  ]
+}

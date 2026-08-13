@@ -8,6 +8,7 @@ const routes = [
   '/poc/route-overwatch',
   '/poc/construction',
   '/poc/crop-health',
+  '/poc/steel-intel',
 ];
 
 const viewports = [

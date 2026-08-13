@@ -214,6 +214,43 @@ export const POCS: PocEntry[] = [
     },
   },
   {
+    slug: 'steel-intel',
+    title: 'Steel Demand Intel',
+    tagline:
+      'Built for a real prospect (JD Fields & Co., Houston): satellite demand signals for a steel pipe & piling distributor — pads before rig counts, grading before permits, ports from orbit.',
+    publicInterest: false,
+    dataSources: [
+      'Sentinel-2 L2A change pairs with SCL cloud masking (Earth Search)',
+      'Umbra Open Data 25 cm SAR over ports (free) — rack-level upgrade path',
+    ],
+    method: [
+      'Permian: season-matched Sentinel-2 pair over Reeves County, TX — bare desert that brightened strongly = new well pads and lease roads, a signal that leads the rig count steel distributors already buy.',
+      'Houston fringe: vegetated land in Fulshear that lost vegetation AND brightened = cleared-and-graded construction sites, with the scene-classification band masking cloud and shadow on both dates.',
+      'Port Houston: year-over-year Turning Basin comparison — berth and laydown activity visible at 10 m, shipment-arrival confirmation for free.',
+    ],
+    business: {
+      market:
+        'US steel service centers and distributors move ~$100B+/yr; sales teams buy demand signals (rig counts, permits, Dodge reports) that all lag what satellites see directly.',
+      customers: [
+        'Pipe & piling distributors (JD Fields profile: API line pipe + H-piles/sheet piling)',
+        'Steel service centers and mills',
+        'Construction-products sales teams',
+      ],
+      revenueModel:
+        'Weekly lead feed per territory (georeferenced new-clearing sites + basin pad starts), CRM-ready export; pilot-priced per metro/basin.',
+      unitEconomics:
+        'Data cost $0 at 10 m; a territory sweep is minutes of compute. One distributor seat priced like the rig-count subscriptions they already pay for.',
+      productionPath: [
+        'Weekly automated sweeps over the Gulf Coast metros + Permian/Eagle Ford with parcel joins for site addresses.',
+        'One ~$300 SkyFi 50 cm tasking per key site: rack-level yard inventory and project-stage detail.',
+        'Storm-response mode: post-hurricane coastal damage sweeps for sheet-piling demand.',
+      ],
+      honestLimits:
+        'At 10 m we see sites and yards, not individual pipe racks — rack-level counts need a ~$300 tasked sub-meter shot. Attribution of a graded site to a buyer still needs parcel/permit joins (public records).',
+      precedents: ['Rig-count data (Baker Hughes) as a paid category', 'Dodge Construction Network', 'Genscape/Wood Mackenzie satellite monitoring'],
+    },
+  },
+  {
     slug: 'crop-health',
     title: 'Crop Health Monitor',
     tagline:
